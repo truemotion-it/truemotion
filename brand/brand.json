@@ -1,0 +1,33 @@
+{
+  "name": "Truemotion",
+  "tagline": "Every Call. Connected by Design.",
+  "category": "voice",
+  "description": "Programmable voice, SIP connectivity, business calling, phone numbers, messaging, call routing, automation, and communications infrastructure.",
+  "colors": [
+    "#05070a",
+    "#f5f8fb",
+    "#37d5ff",
+    "#7367ff",
+    "#8a98aa",
+    "#0d141d"
+  ],
+  "website": "https://truemotion-it.github.io/",
+  "principles": [
+    "connectivity",
+    "clarity",
+    "control",
+    "reliability"
+  ],
+  "support": {
+    "email": null,
+    "phone": "+1 575 652 7735",
+    "salesPhone": "+1 575 652 7735",
+    "businessPhone": "+1 575 652 7735",
+    "hours": "11:01 PM 8/7/26",
+    "center": "https://truemotion-it.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false
+  },
+  "telnyxMode": true
+}
